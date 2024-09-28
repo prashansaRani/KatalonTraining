@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1_ProductNavigation,Chrome 129.0.0.0,,,28-09-2024 12:57:47,28-09-2024 12:57:59,12.199s,PASSED
+,,,,,,,
+Test Cases/TC1_ProductNavigation_Dogs,Chrome 129.0.0.0,,,28-09-2024 12:57:47,28-09-2024 12:57:59,11.929s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,28-09-2024 12:57:48,28-09-2024 12:57:54,6.825s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,28-09-2024 12:57:54,28-09-2024 12:57:55,0.355s,PASSED
+"click(findTestObject(""Object Repository/a_Enter the Store""))",Chrome 129.0.0.0,,,28-09-2024 12:57:55,28-09-2024 12:57:57,1.762s,PASSED
+"click(findTestObject(""Object Repository/img""))",Chrome 129.0.0.0,,,28-09-2024 12:57:57,28-09-2024 12:57:57,0.356s,PASSED
+"click(findTestObject(""Object Repository/a_K9-BD-01""))",Chrome 129.0.0.0,,,28-09-2024 12:57:57,28-09-2024 12:57:57,0.352s,PASSED
+"click(findTestObject(""Object Repository/a_Add to Cart""))",Chrome 129.0.0.0,,,28-09-2024 12:57:57,28-09-2024 12:57:58,0.283s,PASSED
+"click(findTestObject(""Object Repository/a_Proceed to Checkout""))",Chrome 129.0.0.0,,,28-09-2024 12:57:58,28-09-2024 12:57:58,0.297s,PASSED
+"setText(findTestObject(""Object Repository/input_Need a user name and password_username""), ""radhika4"")",Chrome 129.0.0.0,,,28-09-2024 12:57:58,28-09-2024 12:57:58,0.175s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/input_Need a user name and password_password""), ""vgV/8XGf0hOMjcQZyLcRQw=="")",Chrome 129.0.0.0,,,28-09-2024 12:57:58,28-09-2024 12:57:58,0.168s,PASSED
+"click(findTestObject(""Object Repository/input_Need a user name and password_signon""))",Chrome 129.0.0.0,,,28-09-2024 12:57:58,28-09-2024 12:57:59,0.648s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,28-09-2024 12:57:59,28-09-2024 12:57:59,0.201s,PASSED

@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1_ProductNavigation,Edge Chromium 129,,,28-09-2024 12:55:48,28-09-2024 12:57:05,1m - 17.550s,PASSED
+,,,,,,,
+Test Cases/TC1_ProductNavigation_Dogs,Edge Chromium 129,,,28-09-2024 12:55:48,28-09-2024 12:57:05,1m - 17.172s,PASSED
+"openBrowser("""")",Edge Chromium 129,,,28-09-2024 12:55:49,28-09-2024 12:55:55,5.980s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 129,,,28-09-2024 12:55:55,28-09-2024 12:55:57,1.722s,PASSED
+"click(findTestObject(""Object Repository/a_Enter the Store""))",Edge Chromium 129,,,28-09-2024 12:55:57,28-09-2024 12:55:58,1.734s,PASSED
+"click(findTestObject(""Object Repository/img""))",Edge Chromium 129,,,28-09-2024 12:55:58,28-09-2024 12:55:59,0.595s,PASSED
+"click(findTestObject(""Object Repository/a_K9-BD-01""))",Edge Chromium 129,,,28-09-2024 12:55:59,28-09-2024 12:55:59,0.574s,PASSED
+"click(findTestObject(""Object Repository/a_Add to Cart""))",Edge Chromium 129,,,28-09-2024 12:55:59,28-09-2024 12:56:00,0.580s,PASSED
+"click(findTestObject(""Object Repository/a_Proceed to Checkout""))",Edge Chromium 129,,,28-09-2024 12:56:00,28-09-2024 12:56:01,0.589s,PASSED
+"setText(findTestObject(""Object Repository/input_Need a user name and password_username""), ""radhika4"")",Edge Chromium 129,,,28-09-2024 12:56:01,28-09-2024 12:57:04,1m - 3.084s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/input_Need a user name and password_password""), ""vgV/8XGf0hOMjcQZyLcRQw=="")",Edge Chromium 129,,,28-09-2024 12:57:04,28-09-2024 12:57:04,0.485s,PASSED
+"click(findTestObject(""Object Repository/input_Need a user name and password_signon""))",Edge Chromium 129,,,28-09-2024 12:57:04,28-09-2024 12:57:05,0.921s,PASSED
+closeBrowser(),Edge Chromium 129,,,28-09-2024 12:57:05,28-09-2024 12:57:05,0.329s,PASSED
