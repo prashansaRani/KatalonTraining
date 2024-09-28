@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_ProductNavigation_Dogs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>138f47fa-1043-4853-9fda-4576d1d5a356</testCaseGuid>
+</TestCaseEntity>
